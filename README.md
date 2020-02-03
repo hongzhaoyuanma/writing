@@ -5,5 +5,6 @@
 ## 《诗歌》
 * 雪 [github](/poet/雪.md)  [新浪博客](http://blog.sina.com.cn/s/blog_539e8b700102yc4t.html)
 * 2019年度总结 [github](/poet/2019.md)  [新浪博客](http://blog.sina.com.cn/s/blog_539e8b700102yceo.html)
+* 抚仙湖 [github](/poet/抚仙湖.md)  [新浪博客](http://blog.sina.com.cn/s/blog_539e8b700102ycle.html)
 ## 投资分享
 * 19总结 [github](/stock/19.md) [公众号](https://mp.weixin.qq.com/s/eYxHKQJF2AN4qdTC-auzWw)

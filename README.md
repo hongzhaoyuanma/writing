@@ -9,5 +9,6 @@
 * 抚仙湖 [github](/poet/抚仙湖.md)  [新浪博客](http://blog.sina.com.cn/s/blog_539e8b700102ycle.html)
 * 老照片 [github](/poet/老照片.md)  [新浪博客](http://blog.sina.com.cn/s/blog_539e8b700102ycvm.html)
 * 煮粥 [github](/poet/煮粥.md)  [新浪博客](http://blog.sina.com.cn/s/blog_539e8b700102ycxk.html)
+* 河流 [新浪博客](http://blog.sina.com.cn/s/blog_539e8b700102yd96.html)
 ## 投资分享
 * 19总结 [github](/stock/19.md) [公众号](https://mp.weixin.qq.com/s/eYxHKQJF2AN4qdTC-auzWw)
